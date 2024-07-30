@@ -12,7 +12,7 @@ Explore the world of car rentals with the **Car Rental System**, a CPP-based con
 
 ## Getting Started
 
-1. **Clone the Repo**: `https://github.com/aman97kumar/Car_Rental_Project`
+1. **Clone the Repo**: `https://github.com/abhitraj01/Car-Rental-System`
 
 ## Contributions Welcome! 🎉
 
